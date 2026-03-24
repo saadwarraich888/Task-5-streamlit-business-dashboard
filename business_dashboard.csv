@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,Product,Category,Quantity,Price,Payment_Method,Total_Sales,Profit,Discount,Sub_Category
+1000,2023-01-01,151,Ayesha,Lahore,Laptop,Electronics,4,81966,Cash,327864,34592.05982465649,11,Ultrabook
+1001,2023-01-02,192,Ahmed,Islamabad,Headphones,Electronics,1,49922,Online,49922,10038.866079265095,5,Wireless
+1002,2023-01-03,114,Sara,Islamabad,Tablet,Electronics,1,89364,Card,89364,26166.09031393327,18,Kids Tablet
+1003,2023-01-04,171,Usman,Faisalabad,Mobile,Electronics,2,52913,Card,105826,18714.41192168706,3,Budget Phone
+1004,2023-01-05,160,Ali,Karachi,Laptop,Electronics,2,65677,Online,131354,14159.856447152988,14,Gaming Laptop
+1005,2023-01-06,120,Usman,Islamabad,Laptop,Electronics,4,59841,Cash,239364,25418.34038752355,8,Gaming Laptop
+1006,2023-01-07,182,Ayesha,Islamabad,Tablet,Electronics,2,56332,Cash,112664,20008.828064530822,4,Kids Tablet
+1007,2023-01-08,186,Usman,Karachi,Headphones,Electronics,2,35032,Card,70064,9248.797429671446,12,Wired
+1008,2023-01-09,174,Ali,Islamabad,Tablet,Electronics,4,47846,Card,191384,20032.243520734708,17,Kids Tablet
+1009,2023-01-10,174,Ayesha,Lahore,Headphones,Accessories,2,69474,Cash,138948,34909.67384622983,4,Noise Cancelling
+1010,2023-01-11,187,Usman,Lahore,Headphones,Accessories,3,54936,Online,164808,31594.45200956133,15,Noise Cancelling
+1011,2023-01-12,199,Ayesha,Karachi,Laptop,Accessories,1,39794,Card,39794,6281.441291175963,18,Ultrabook
+1012,2023-01-13,123,Ahmed,Faisalabad,Tablet,Electronics,1,71588,Cash,71588,20045.830981156763,13,Android Tablet
+1013,2023-01-14,102,Ahmed,Faisalabad,Tablet,Accessories,1,80984,Card,80984,9979.479510575871,15,Kids Tablet
+1014,2023-01-15,121,Usman,Karachi,Headphones,Accessories,1,60331,Online,60331,17567.407773940675,14,Wired
+1015,2023-01-16,152,Ayesha,Karachi,Tablet,Accessories,4,38141,Cash,152564,24836.40365399169,3,Android Tablet
+1016,2023-01-17,101,Ali,Lahore,Mobile,Electronics,1,19074,Card,19074,5296.482329123157,6,iPhone
+1017,2023-01-18,187,Usman,Faisalabad,Mobile,Electronics,1,16406,Online,16406,3618.9761663044096,15,iPhone
+1018,2023-01-19,129,Ahmed,Islamabad,Tablet,Electronics,1,33291,Card,33291,8833.482942630772,7,iPad
+1019,2023-01-20,137,Ahmed,Lahore,Tablet,Electronics,1,51568,Online,51568,15305.518160087444,16,iPad
+1020,2023-01-21,101,Usman,Karachi,Headphones,Accessories,3,56851,Online,170553,26892.98252726011,15,Wireless
+1021,2023-01-22,163,Ayesha,Faisalabad,Mobile,Accessories,1,64823,Cash,64823,18943.037114115283,9,Android Phone
+1022,2023-01-23,159,Ahmed,Islamabad,Mobile,Accessories,3,33312,Online,99936,17778.252529793655,9,iPhone
+1023,2023-01-24,120,Ayesha,Islamabad,Laptop,Accessories,4,53108,Card,212432,37622.21298941477,1,Business Laptop
+1024,2023-01-25,132,Ahmed,Lahore,Headphones,Electronics,2,76918,Online,153836,25856.358114019225,8,Wireless
+1025,2023-01-26,175,Ahmed,Faisalabad,Laptop,Electronics,1,44171,Online,44171,9200.003084830038,16,Gaming Laptop
+1026,2023-01-27,157,Sara,Faisalabad,Mobile,Electronics,2,51779,Cash,103558,13548.390476295552,10,Android Phone
+1027,2023-01-28,121,Ahmed,Karachi,Headphones,Accessories,2,78828,Online,157656,33224.787587120525,9,Noise Cancelling
+1028,2023-01-29,188,Ali,Faisalabad,Tablet,Electronics,4,22411,Online,89644,18676.51724073648,16,Kids Tablet
+1029,2023-01-30,148,Usman,Faisalabad,Headphones,Electronics,2,67009,Card,134018,33823.511424335884,3,Noise Cancelling
+1030,2023-01-31,190,Usman,Lahore,Tablet,Accessories,3,25422,Cash,76266,20342.429599426378,15,iPad
+1031,2023-02-01,158,Ayesha,Faisalabad,Tablet,Accessories,2,52468,Cash,104936,19737.230707276904,19,Kids Tablet
+1032,2023-02-02,141,Ahmed,Islamabad,Headphones,Electronics,2,42371,Cash,84742,13598.264843308856,14,Wired
+1033,2023-02-03,191,Ali,Lahore,Tablet,Electronics,2,67022,Online,134044,20356.85739519452,4,iPad
+1034,2023-02-04,159,Ayesha,Lahore,Laptop,Electronics,1,81229,Cash,81229,11284.719926340009,5,Ultrabook
+1035,2023-02-05,179,Sara,Karachi,Mobile,Electronics,1,61196,Online,61196,6825.160288050305,16,iPhone
+1036,2023-02-06,114,Ayesha,Faisalabad,Tablet,Electronics,3,90354,Online,271062,45671.126807779016,0,Kids Tablet
+1037,2023-02-07,161,Ayesha,Karachi,Laptop,Electronics,3,36715,Card,110145,16967.786409949025,18,Ultrabook
+1038,2023-02-08,161,Ahmed,Islamabad,Tablet,Accessories,1,37605,Card,37605,11028.925159101247,3,Android Tablet
+1039,2023-02-09,146,Sara,Lahore,Mobile,Accessories,3,41174,Card,123522,26130.061927211584,16,Budget Phone
+1040,2023-02-10,161,Ayesha,Lahore,Laptop,Accessories,1,19956,Card,19956,3381.652118178562,8,Gaming Laptop
+1041,2023-02-11,150,Ali,Lahore,Mobile,Electronics,4,86373,Card,345492,74658.5824805028,1,Budget Phone
+1042,2023-02-12,154,Ali,Islamabad,Mobile,Accessories,2,79252,Online,158504,20263.046790019624,7,Budget Phone
+1043,2023-02-13,163,Usman,Islamabad,Laptop,Electronics,2,71949,Online,143898,27169.20148453972,14,Gaming Laptop
+1044,2023-02-14,102,Sara,Karachi,Laptop,Electronics,3,72646,Cash,217938,49089.85110837276,6,Gaming Laptop
+1045,2023-02-15,150,Sara,Karachi,Laptop,Accessories,1,80017,Online,80017,15825.727561307314,5,Ultrabook
+1046,2023-02-16,106,Usman,Karachi,Headphones,Electronics,1,73037,Online,73037,13172.643652677976,0,Wired
+1047,2023-02-17,120,Ayesha,Faisalabad,Laptop,Electronics,3,99818,Card,299454,89467.77508991404,14,Gaming Laptop
+1048,2023-02-18,172,Sara,Lahore,Laptop,Accessories,1,16548,Online,16548,4568.2897368080885,6,Business Laptop
+1049,2023-02-19,138,Ali,Lahore,Laptop,Accessories,4,83294,Card,333176,74858.38070314591,16,Business Laptop
+1050,2023-02-20,117,Ali,Karachi,Laptop,Accessories,2,33177,Cash,66354,14191.493084777836,1,Business Laptop
+1051,2023-02-21,103,Ahmed,Lahore,Tablet,Electronics,3,34022,Cash,102066,22876.2665067552,8,Android Tablet
+1052,2023-02-22,188,Sara,Karachi,Headphones,Accessories,3,15542,Online,46626,6539.875667865755,8,Wired
+1053,2023-02-23,159,Ayesha,Faisalabad,Mobile,Accessories,1,70428,Cash,70428,12608.552196523886,12,Android Phone
+1054,2023-02-24,113,Usman,Faisalabad,Laptop,Electronics,3,32740,Online,98220,10597.143064108828,5,Business Laptop
+1055,2023-02-25,108,Usman,Islamabad,Tablet,Accessories,4,69353,Cash,277412,54125.63547025911,5,Kids Tablet
+1056,2023-02-26,189,Ayesha,Faisalabad,Tablet,Accessories,1,66532,Card,66532,13878.90232397425,19,Kids Tablet
+1057,2023-02-27,152,Ahmed,Karachi,Tablet,Accessories,1,26052,Card,26052,3791.867224992163,19,Android Tablet
+1058,2023-02-28,101,Usman,Faisalabad,Mobile,Electronics,1,57076,Card,57076,16712.182096163775,2,Budget Phone
+1059,2023-03-01,183,Sara,Islamabad,Laptop,Electronics,1,63420,Card,63420,17877.522285127976,16,Ultrabook
+1060,2023-03-02,191,Ahmed,Lahore,Headphones,Electronics,4,10671,Online,42684,10433.192372439977,16,Wired
+1061,2023-03-03,159,Sara,Karachi,Headphones,Electronics,1,10163,Cash,10163,2100.461661628476,11,Wireless
+1062,2023-03-04,170,Ali,Lahore,Tablet,Accessories,3,51424,Online,154272,42269.57643943353,15,iPad
+1063,2023-03-05,143,Ahmed,Islamabad,Mobile,Electronics,4,63744,Card,254976,32160.24240374625,14,iPhone
+1064,2023-03-06,107,Usman,Islamabad,Mobile,Electronics,2,80331,Online,160662,41467.17691355832,12,iPhone
+1065,2023-03-07,146,Ahmed,Islamabad,Mobile,Accessories,2,20634,Cash,41268,5157.021070156779,0,iPhone
+1066,2023-03-08,134,Ahmed,Lahore,Headphones,Accessories,3,14798,Online,44394,11491.03763064366,16,Wired
+1067,2023-03-09,177,Ahmed,Lahore,Tablet,Accessories,3,32420,Cash,97260,15090.230737625396,2,iPad
+1068,2023-03-10,180,Ahmed,Lahore,Laptop,Electronics,4,39300,Online,157200,43295.727867211855,14,Business Laptop
+1069,2023-03-11,135,Sara,Lahore,Headphones,Electronics,2,99881,Cash,199762,57692.94734934982,3,Wireless
+1070,2023-03-12,149,Ali,Islamabad,Tablet,Electronics,2,20749,Cash,41498,5384.747027674698,3,Kids Tablet
+1071,2023-03-13,103,Ayesha,Islamabad,Tablet,Accessories,2,35121,Card,70242,13524.051970200671,17,iPad
+1072,2023-03-14,101,Ahmed,Karachi,Laptop,Accessories,2,47487,Cash,94974,28131.05905072457,16,Business Laptop
+1073,2023-03-15,105,Usman,Karachi,Laptop,Electronics,2,43361,Card,86722,17056.611932492644,18,Business Laptop
+1074,2023-03-16,153,Ahmed,Lahore,Laptop,Accessories,1,31223,Card,31223,8514.808859094328,10,Business Laptop
+1075,2023-03-17,103,Usman,Faisalabad,Mobile,Accessories,3,82930,Card,248790,54173.10307821021,19,iPhone
+1076,2023-03-18,153,Sara,Faisalabad,Laptop,Accessories,1,24056,Online,24056,4211.387252982789,2,Business Laptop
+1077,2023-03-19,192,Usman,Islamabad,Tablet,Electronics,2,38380,Online,76760,12063.34914443316,7,Kids Tablet
+1078,2023-03-20,162,Ayesha,Islamabad,Laptop,Accessories,4,36035,Online,144140,20272.515269829724,13,Ultrabook
+1079,2023-03-21,117,Ali,Islamabad,Tablet,Accessories,4,40620,Online,162480,41003.39402700964,0,iPad
+1080,2023-03-22,189,Usman,Karachi,Headphones,Electronics,2,29877,Cash,59754,10594.86828894064,13,Noise Cancelling
+1081,2023-03-23,143,Usman,Karachi,Mobile,Electronics,2,65316,Cash,130632,26420.987235641704,1,Android Phone
+1082,2023-03-24,133,Ali,Islamabad,Headphones,Accessories,4,74041,Online,296164,58778.21669181401,3,Wired
+1083,2023-03-25,173,Ayesha,Islamabad,Headphones,Accessories,1,63352,Cash,63352,13649.556211995465,18,Wireless
+1084,2023-03-26,161,Ahmed,Islamabad,Tablet,Electronics,1,40911,Cash,40911,11173.425320929213,5,Android Tablet
+1085,2023-03-27,199,Usman,Faisalabad,Headphones,Electronics,2,42784,Card,85568,25340.780830349377,0,Wired
+1086,2023-03-28,113,Ali,Karachi,Tablet,Accessories,1,13191,Card,13191,2394.388659059444,16,Kids Tablet
+1087,2023-03-29,194,Sara,Faisalabad,Laptop,Accessories,4,43160,Card,172640,45836.57334248643,7,Gaming Laptop
+1088,2023-03-30,147,Ali,Faisalabad,Laptop,Accessories,1,74641,Card,74641,18877.123824164555,18,Business Laptop
+1089,2023-03-31,114,Sara,Islamabad,Tablet,Accessories,2,59723,Cash,119446,25645.74782711248,0,Android Tablet
+1090,2023-04-01,171,Ayesha,Islamabad,Laptop,Electronics,4,13631,Online,54524,15877.902891659409,4,Gaming Laptop
+1091,2023-04-02,177,Ahmed,Lahore,Mobile,Accessories,1,16172,Cash,16172,2265.6147730250664,15,Android Phone
+1092,2023-04-03,186,Ali,Lahore,Headphones,Accessories,3,52080,Cash,156240,19038.28804375505,5,Wireless
+1093,2023-04-04,161,Usman,Faisalabad,Mobile,Electronics,4,99097,Cash,396388,107338.85523150516,7,Budget Phone
+1094,2023-04-05,139,Ayesha,Karachi,Headphones,Accessories,4,30281,Card,121124,22750.716477989223,12,Wireless
+1095,2023-04-06,184,Ali,Islamabad,Laptop,Electronics,3,38671,Card,116013,31253.17953662474,15,Gaming Laptop
+1096,2023-04-07,179,Usman,Islamabad,Mobile,Accessories,3,61431,Card,184293,51347.354637215714,2,Android Phone
+1097,2023-04-08,181,Ali,Faisalabad,Laptop,Accessories,4,38602,Online,154408,17369.590423106718,18,Ultrabook
+1098,2023-04-09,152,Sara,Lahore,Headphones,Electronics,3,98789,Cash,296367,82002.66028237798,11,Wireless
+1099,2023-04-10,123,Ali,Karachi,Tablet,Electronics,2,61399,Online,122798,23290.336672250854,15,Android Tablet
+1100,2023-04-11,125,Ali,Lahore,Tablet,Accessories,2,33472,Card,66944,13528.478508779865,10,Kids Tablet
+1101,2023-04-12,188,Ali,Lahore,Mobile,Accessories,2,59230,Online,118460,26691.229772820338,9,Budget Phone
+1102,2023-04-13,159,Ayesha,Lahore,Laptop,Accessories,4,83616,Cash,334464,95414.72643547434,19,Ultrabook
+1103,2023-04-14,140,Ali,Lahore,Laptop,Electronics,3,17099,Cash,51297,5325.819659192721,3,Gaming Laptop
+1104,2023-04-15,128,Usman,Islamabad,Mobile,Accessories,3,35431,Card,106293,20766.324555581145,11,Budget Phone
+1105,2023-04-16,114,Sara,Islamabad,Tablet,Electronics,1,66492,Card,66492,15794.802809058569,1,Kids Tablet
+1106,2023-04-17,144,Sara,Lahore,Headphones,Electronics,1,57684,Online,57684,14106.125629572922,18,Wireless
+1107,2023-04-18,164,Ali,Karachi,Mobile,Accessories,3,40111,Card,120333,28700.20101683096,4,Budget Phone
+1108,2023-04-19,188,Ayesha,Faisalabad,Headphones,Electronics,3,73936,Card,221808,28144.55743675134,7,Wireless
+1109,2023-04-20,170,Ayesha,Karachi,Tablet,Accessories,3,32614,Cash,97842,15642.892631492408,6,iPad
+1110,2023-04-21,108,Usman,Karachi,Laptop,Accessories,4,51991,Card,207964,35716.38310556475,13,Ultrabook
+1111,2023-04-22,187,Ali,Karachi,Tablet,Accessories,3,80476,Card,241428,62985.5332351295,2,iPad
+1112,2023-04-23,100,Sara,Lahore,Mobile,Accessories,1,70920,Cash,70920,11045.930030328022,17,Android Phone
+1113,2023-04-24,107,Ayesha,Islamabad,Laptop,Accessories,4,73530,Cash,294120,41806.50879452436,15,Ultrabook
+1114,2023-04-25,187,Ali,Karachi,Mobile,Electronics,3,46224,Online,138672,40421.446339210175,18,Android Phone
+1115,2023-04-26,162,Ayesha,Lahore,Mobile,Electronics,1,17788,Card,17788,1810.332023119677,18,iPhone
+1116,2023-04-27,110,Ayesha,Karachi,Tablet,Accessories,4,38082,Cash,152328,45632.01106086488,17,Android Tablet
+1117,2023-04-28,180,Sara,Karachi,Mobile,Accessories,3,99570,Online,298710,70305.65803633853,19,Budget Phone
+1118,2023-04-29,107,Ahmed,Lahore,Tablet,Electronics,3,86816,Online,260448,69199.43442058473,15,Kids Tablet
+1119,2023-04-30,134,Usman,Islamabad,Laptop,Electronics,3,93588,Card,280764,44620.10403914852,7,Business Laptop
+1120,2023-05-01,134,Usman,Islamabad,Tablet,Electronics,4,26531,Card,106124,10916.238905427816,0,Android Tablet
+1121,2023-05-02,132,Sara,Faisalabad,Laptop,Electronics,1,98340,Online,98340,24346.41769106817,16,Ultrabook
+1122,2023-05-03,104,Ayesha,Lahore,Tablet,Accessories,1,54857,Cash,54857,14637.434031533214,11,iPad
+1123,2023-05-04,140,Ali,Faisalabad,Headphones,Accessories,2,20142,Online,40284,9994.268099923112,10,Noise Cancelling
+1124,2023-05-05,127,Ayesha,Faisalabad,Headphones,Electronics,3,58355,Card,175065,22508.11710926426,4,Noise Cancelling
+1125,2023-05-06,106,Sara,Faisalabad,Mobile,Accessories,2,19866,Cash,39732,9960.239641422775,11,Android Phone
+1126,2023-05-07,172,Usman,Islamabad,Tablet,Electronics,2,80067,Cash,160134,40639.536158004994,16,Kids Tablet
+1127,2023-05-08,171,Ayesha,Lahore,Tablet,Accessories,1,74027,Online,74027,17152.65575070143,5,Android Tablet
+1128,2023-05-09,111,Usman,Faisalabad,Laptop,Electronics,4,67906,Card,271624,68781.49482593367,0,Ultrabook
+1129,2023-05-10,133,Ali,Lahore,Mobile,Accessories,4,38138,Online,152552,41064.60149314347,4,iPhone
+1130,2023-05-11,132,Usman,Lahore,Tablet,Electronics,1,39956,Online,39956,8899.033197694378,13,Kids Tablet
+1131,2023-05-12,147,Usman,Islamabad,Mobile,Electronics,4,86295,Online,345180,40634.91503361076,4,Android Phone
+1132,2023-05-13,122,Ahmed,Faisalabad,Headphones,Accessories,2,15439,Cash,30878,6099.194301380828,0,Wireless
+1133,2023-05-14,161,Ahmed,Faisalabad,Tablet,Electronics,3,57241,Cash,171723,19839.135339562406,17,iPad
+1134,2023-05-15,187,Ahmed,Lahore,Tablet,Accessories,1,52533,Card,52533,9535.191609845338,15,Kids Tablet
+1135,2023-05-16,136,Usman,Karachi,Mobile,Accessories,3,38270,Card,114810,20828.97920330266,8,Budget Phone
+1136,2023-05-17,198,Sara,Islamabad,Tablet,Electronics,4,88815,Online,355260,40216.13144585245,18,iPad
+1137,2023-05-18,143,Usman,Islamabad,Mobile,Accessories,3,49279,Online,147837,25097.416256089185,4,Budget Phone
+1138,2023-05-19,185,Sara,Islamabad,Tablet,Accessories,4,33888,Online,135552,16564.40285747206,1,Kids Tablet
+1139,2023-05-20,190,Sara,Islamabad,Laptop,Accessories,4,27630,Card,110520,28917.231082043843,14,Gaming Laptop
+1140,2023-05-21,134,Ahmed,Faisalabad,Mobile,Accessories,2,71063,Cash,142126,41150.82167564528,6,Budget Phone
+1141,2023-05-22,164,Ayesha,Faisalabad,Tablet,Accessories,4,45144,Cash,180576,20669.323967235505,3,Kids Tablet
+1142,2023-05-23,198,Ali,Karachi,Headphones,Electronics,2,62161,Online,124322,36180.566560183775,0,Wired
+1143,2023-05-24,146,Ahmed,Islamabad,Tablet,Accessories,2,87360,Online,174720,35732.91668722322,12,iPad
+1144,2023-05-25,177,Ahmed,Islamabad,Headphones,Accessories,2,60979,Online,121958,19502.68619037971,19,Wireless
+1145,2023-05-26,102,Ayesha,Lahore,Headphones,Accessories,1,16979,Online,16979,1958.9082352227963,6,Noise Cancelling
+1146,2023-05-27,100,Ali,Faisalabad,Laptop,Accessories,1,36189,Card,36189,7242.31832744007,14,Ultrabook
+1147,2023-05-28,104,Usman,Islamabad,Mobile,Accessories,4,52600,Cash,210400,54473.2141121707,13,Budget Phone
+1148,2023-05-29,189,Usman,Karachi,Tablet,Electronics,2,69560,Online,139120,33585.97414346861,18,Android Tablet
+1149,2023-05-30,113,Ahmed,Karachi,Laptop,Accessories,1,88040,Card,88040,9688.37960985765,19,Gaming Laptop
+1150,2023-05-31,126,Ali,Faisalabad,Tablet,Electronics,2,71558,Online,143116,16398.28381410258,17,iPad
+1151,2023-06-01,108,Ahmed,Karachi,Headphones,Electronics,3,96205,Online,288615,52116.55449340372,9,Wireless
+1152,2023-06-02,178,Sara,Karachi,Mobile,Electronics,3,16910,Cash,50730,8069.017352610433,8,Budget Phone
+1153,2023-06-03,114,Ahmed,Faisalabad,Tablet,Electronics,3,67713,Online,203139,29755.1638002565,7,Kids Tablet
+1154,2023-06-04,189,Ahmed,Islamabad,Tablet,Accessories,4,56857,Cash,227428,35524.45823556218,9,Android Tablet
+1155,2023-06-05,141,Usman,Islamabad,Headphones,Electronics,2,44964,Cash,89928,23443.919227840448,16,Noise Cancelling
+1156,2023-06-06,176,Usman,Karachi,Tablet,Electronics,3,95667,Cash,287001,82037.97612407914,1,Kids Tablet
+1157,2023-06-07,150,Usman,Karachi,Tablet,Accessories,1,35227,Card,35227,6376.810524024517,5,Android Tablet
+1158,2023-06-08,162,Sara,Islamabad,Headphones,Accessories,3,15978,Card,47934,13480.10495524382,4,Wireless
+1159,2023-06-09,195,Usman,Faisalabad,Laptop,Accessories,3,97527,Cash,292581,48070.806753361314,8,Ultrabook
+1160,2023-06-10,151,Ali,Karachi,Headphones,Electronics,3,27153,Online,81459,15907.916094115784,4,Noise Cancelling
+1161,2023-06-11,195,Ayesha,Lahore,Laptop,Accessories,4,69765,Cash,279060,40521.13042610658,17,Ultrabook
+1162,2023-06-12,103,Ali,Faisalabad,Mobile,Accessories,1,49071,Online,49071,11192.859973122168,19,iPhone
+1163,2023-06-13,193,Ali,Karachi,Laptop,Electronics,2,79519,Cash,159038,47042.83971903425,8,Business Laptop
+1164,2023-06-14,122,Usman,Karachi,Laptop,Accessories,1,19503,Online,19503,4304.285170426802,16,Business Laptop
+1165,2023-06-15,114,Ayesha,Lahore,Mobile,Accessories,2,70703,Card,141406,24260.011675632097,16,Android Phone
+1166,2023-06-16,142,Ayesha,Lahore,Laptop,Accessories,4,74379,Online,297516,68298.81105226361,11,Business Laptop
+1167,2023-06-17,128,Ayesha,Islamabad,Headphones,Accessories,4,67866,Cash,271464,33820.107811785594,6,Wireless
+1168,2023-06-18,135,Sara,Faisalabad,Laptop,Electronics,4,26905,Card,107620,29889.49804363244,2,Gaming Laptop
+1169,2023-06-19,112,Usman,Faisalabad,Mobile,Accessories,4,55838,Online,223352,44808.1613149156,9,iPhone
+1170,2023-06-20,131,Ayesha,Islamabad,Headphones,Accessories,2,68279,Online,136558,25928.26041468989,1,Wired
+1171,2023-06-21,170,Sara,Faisalabad,Mobile,Electronics,3,99489,Online,298467,64818.9611630713,2,iPhone
+1172,2023-06-22,158,Ahmed,Faisalabad,Mobile,Accessories,2,36806,Online,73612,16559.5179415307,15,Budget Phone
+1173,2023-06-23,185,Ahmed,Faisalabad,Tablet,Electronics,1,55000,Online,55000,6289.533868491643,1,iPad
+1174,2023-06-24,127,Sara,Faisalabad,Tablet,Accessories,4,32168,Card,128672,30433.944617851525,9,Kids Tablet
+1175,2023-06-25,165,Sara,Faisalabad,Mobile,Electronics,4,80119,Card,320476,47554.25943615993,5,Android Phone
+1176,2023-06-26,141,Usman,Lahore,Mobile,Electronics,1,48714,Card,48714,11827.297707985204,10,Budget Phone
+1177,2023-06-27,144,Usman,Faisalabad,Mobile,Electronics,2,64093,Card,128186,33906.089030586525,6,iPhone
+1178,2023-06-28,161,Ahmed,Lahore,Tablet,Electronics,3,65419,Cash,196257,51182.196963346985,14,Android Tablet
+1179,2023-06-29,156,Ayesha,Faisalabad,Tablet,Accessories,3,59145,Card,177435,37350.10183040376,5,Android Tablet
+1180,2023-06-30,105,Ahmed,Islamabad,Laptop,Electronics,1,87425,Online,87425,17837.670567053483,19,Gaming Laptop
+1181,2023-07-01,127,Ayesha,Karachi,Laptop,Accessories,3,87811,Online,263433,33870.948624705044,8,Ultrabook
+1182,2023-07-02,127,Ayesha,Lahore,Mobile,Electronics,2,12461,Card,24922,6356.835352069388,19,iPhone
+1183,2023-07-03,143,Usman,Faisalabad,Headphones,Electronics,2,24291,Online,48582,7495.322104172455,11,Wireless
+1184,2023-07-04,183,Ali,Islamabad,Headphones,Electronics,1,56804,Card,56804,11323.257359550124,18,Wireless
+1185,2023-07-05,129,Ali,Karachi,Tablet,Accessories,2,86971,Online,173942,27283.640854399622,19,Android Tablet
+1186,2023-07-06,161,Sara,Lahore,Tablet,Electronics,4,74946,Cash,299784,38002.3203947,2,Kids Tablet
+1187,2023-07-07,174,Usman,Karachi,Tablet,Accessories,1,94080,Cash,94080,21253.757624714915,14,Kids Tablet
+1188,2023-07-08,191,Ayesha,Islamabad,Mobile,Accessories,2,71332,Card,142664,15816.645083194951,1,iPhone
+1189,2023-07-09,188,Ali,Lahore,Headphones,Accessories,1,87794,Card,87794,21924.71193697512,1,Noise Cancelling
+1190,2023-07-10,161,Ayesha,Karachi,Laptop,Accessories,3,40841,Card,122523,20034.63738315556,2,Gaming Laptop
+1191,2023-07-11,196,Ali,Faisalabad,Mobile,Accessories,2,58758,Online,117516,11754.76571662302,5,iPhone
+1192,2023-07-12,100,Ali,Lahore,Laptop,Accessories,4,86272,Card,345088,69785.70648021944,14,Gaming Laptop
+1193,2023-07-13,126,Ali,Karachi,Laptop,Accessories,2,47643,Cash,95286,10421.46619119224,9,Gaming Laptop
+1194,2023-07-14,161,Usman,Islamabad,Mobile,Accessories,1,60408,Online,60408,9377.37012976898,8,Budget Phone
+1195,2023-07-15,176,Ahmed,Islamabad,Laptop,Accessories,1,53950,Card,53950,13023.276299647176,0,Business Laptop
+1196,2023-07-16,102,Ayesha,Lahore,Headphones,Electronics,2,66849,Online,133698,15046.095406320046,15,Noise Cancelling
+1197,2023-07-17,169,Usman,Karachi,Laptop,Electronics,4,38044,Online,152176,40763.0348825534,5,Ultrabook
+1198,2023-07-18,171,Usman,Lahore,Headphones,Electronics,4,25997,Card,103988,10478.24522348415,8,Wired
+1199,2023-07-19,126,Usman,Lahore,Headphones,Electronics,4,89751,Online,359004,53622.55126779194,3,Wireless
+1200,2023-07-20,108,Usman,Karachi,Headphones,Electronics,1,33911,Cash,33911,8416.05948963458,1,Wireless
+1201,2023-07-21,161,Usman,Karachi,Tablet,Accessories,2,65533,Cash,131066,21397.052688884265,3,iPad
+1202,2023-07-22,136,Sara,Faisalabad,Laptop,Accessories,3,92566,Online,277698,33428.86247623117,0,Gaming Laptop
+1203,2023-07-23,196,Ayesha,Karachi,Mobile,Accessories,1,24571,Card,24571,4227.361523769063,18,iPhone
+1204,2023-07-24,150,Usman,Islamabad,Mobile,Accessories,4,67941,Online,271764,41873.032216200845,9,iPhone
+1205,2023-07-25,143,Ayesha,Lahore,Laptop,Accessories,2,68005,Cash,136010,36524.44916257141,14,Ultrabook
+1206,2023-07-26,123,Sara,Lahore,Tablet,Accessories,4,96250,Online,385000,62627.78965405602,18,iPad
+1207,2023-07-27,178,Sara,Islamabad,Tablet,Accessories,3,68712,Online,206136,53139.0768004038,15,Kids Tablet
+1208,2023-07-28,158,Ayesha,Karachi,Headphones,Electronics,4,53541,Cash,214164,59617.78120424924,3,Wireless
+1209,2023-07-29,131,Ali,Islamabad,Laptop,Electronics,4,33387,Online,133548,24941.889749921276,1,Gaming Laptop
+1210,2023-07-30,195,Ahmed,Islamabad,Laptop,Electronics,3,58908,Online,176724,49834.15843090471,12,Gaming Laptop
+1211,2023-07-31,187,Ali,Faisalabad,Mobile,Electronics,2,95457,Card,190914,33498.4597908658,0,Android Phone
+1212,2023-08-01,151,Ali,Islamabad,Laptop,Accessories,1,23057,Card,23057,6751.451209802485,16,Ultrabook
+1213,2023-08-02,161,Ali,Lahore,Tablet,Accessories,2,74028,Cash,148056,17449.569968631647,12,Android Tablet
+1214,2023-08-03,157,Usman,Islamabad,Laptop,Accessories,3,65731,Cash,197193,46814.37804391479,3,Business Laptop
+1215,2023-08-04,151,Sara,Lahore,Mobile,Electronics,4,34858,Cash,139432,27713.895857798096,6,iPhone
+1216,2023-08-05,111,Ali,Lahore,Headphones,Accessories,2,58689,Card,117378,20838.08829735459,16,Wired
+1217,2023-08-06,138,Sara,Lahore,Mobile,Accessories,1,54638,Cash,54638,12377.82232621321,8,Budget Phone
+1218,2023-08-07,101,Ayesha,Karachi,Mobile,Accessories,3,56486,Cash,169458,40800.6430068341,3,Android Phone
+1219,2023-08-08,102,Ahmed,Faisalabad,Headphones,Electronics,2,30567,Cash,61134,6166.7488253604,18,Wireless
+1220,2023-08-09,155,Ayesha,Lahore,Mobile,Accessories,1,39739,Card,39739,5300.8097587449865,0,Android Phone
+1221,2023-08-10,180,Ayesha,Lahore,Mobile,Electronics,3,67804,Online,203412,49349.6246503256,9,Budget Phone
+1222,2023-08-11,158,Usman,Karachi,Laptop,Electronics,1,13754,Cash,13754,3208.49299567093,3,Business Laptop
+1223,2023-08-12,101,Ahmed,Lahore,Laptop,Electronics,3,37044,Online,111132,32584.958267992028,8,Business Laptop
+1224,2023-08-13,101,Ayesha,Islamabad,Headphones,Electronics,4,77260,Cash,309040,77942.2237398204,12,Wireless
+1225,2023-08-14,191,Ayesha,Islamabad,Laptop,Accessories,2,76912,Online,153824,44632.73219881307,13,Business Laptop
+1226,2023-08-15,153,Ahmed,Faisalabad,Laptop,Electronics,1,18706,Card,18706,4498.94452434202,9,Business Laptop
+1227,2023-08-16,186,Ahmed,Lahore,Mobile,Electronics,3,18894,Card,56682,9047.039058020184,5,Budget Phone
+1228,2023-08-17,195,Ayesha,Karachi,Tablet,Accessories,1,28037,Cash,28037,3394.523265029453,15,Kids Tablet
+1229,2023-08-18,196,Ahmed,Islamabad,Laptop,Accessories,1,93986,Online,93986,24094.699524067422,5,Ultrabook
+1230,2023-08-19,100,Ayesha,Karachi,Tablet,Electronics,2,91942,Card,183884,42078.14708837547,16,Kids Tablet
+1231,2023-08-20,118,Ayesha,Karachi,Laptop,Accessories,4,61612,Cash,246448,27019.869276460617,9,Gaming Laptop
+1232,2023-08-21,101,Usman,Islamabad,Laptop,Electronics,1,39725,Cash,39725,6833.100951583273,17,Ultrabook
+1233,2023-08-22,152,Ali,Karachi,Headphones,Electronics,3,15926,Card,47778,13920.596316841642,17,Wired
+1234,2023-08-23,143,Ayesha,Islamabad,Headphones,Electronics,3,19496,Card,58488,11702.29244205965,2,Wireless
+1235,2023-08-24,189,Sara,Karachi,Headphones,Electronics,4,66447,Cash,265788,49581.64232088105,19,Wired
+1236,2023-08-25,131,Ali,Islamabad,Tablet,Accessories,3,39806,Online,119418,22873.314289782516,14,iPad
+1237,2023-08-26,169,Ali,Lahore,Mobile,Electronics,4,98199,Online,392796,55689.259691666455,14,iPhone
+1238,2023-08-27,131,Ali,Faisalabad,Laptop,Accessories,3,51321,Online,153963,26749.752429571294,3,Ultrabook
+1239,2023-08-28,167,Usman,Islamabad,Laptop,Accessories,2,75095,Cash,150190,26127.45058334281,8,Ultrabook
+1240,2023-08-29,154,Ayesha,Islamabad,Laptop,Accessories,1,32656,Card,32656,3607.54110784842,18,Gaming Laptop
+1241,2023-08-30,174,Usman,Faisalabad,Tablet,Accessories,2,65147,Cash,130294,33031.291318022726,16,Android Tablet
+1242,2023-08-31,155,Ayesha,Islamabad,Headphones,Electronics,1,59666,Card,59666,10936.830686795369,10,Noise Cancelling
+1243,2023-09-01,116,Usman,Islamabad,Mobile,Accessories,1,92368,Online,92368,24425.422357091877,8,iPhone
+1244,2023-09-02,137,Usman,Karachi,Tablet,Electronics,1,48787,Online,48787,13175.885586127268,9,Android Tablet
+1245,2023-09-03,123,Sara,Faisalabad,Headphones,Accessories,2,72946,Card,145892,20774.847325619325,17,Noise Cancelling
+1246,2023-09-04,168,Usman,Lahore,Tablet,Accessories,1,31727,Card,31727,7343.870785762334,19,Kids Tablet
+1247,2023-09-05,197,Ahmed,Islamabad,Mobile,Electronics,2,78056,Cash,156112,30356.97140229828,12,Budget Phone
+1248,2023-09-06,169,Sara,Faisalabad,Headphones,Electronics,4,13081,Online,52324,14443.06423100076,7,Wired
+1249,2023-09-07,185,Usman,Karachi,Tablet,Electronics,3,44196,Cash,132588,18979.72503412954,6,Kids Tablet
+1250,2023-09-08,110,Ali,Lahore,Mobile,Accessories,3,46735,Cash,140205,33027.05994989395,16,Budget Phone
+1251,2023-09-09,115,Ahmed,Faisalabad,Laptop,Accessories,1,90102,Cash,90102,19962.13634384296,14,Ultrabook
+1252,2023-09-10,196,Ahmed,Lahore,Mobile,Electronics,2,89578,Online,179156,28496.60630317185,19,Budget Phone
+1253,2023-09-11,172,Ahmed,Lahore,Laptop,Electronics,3,35498,Cash,106494,13558.835326685594,14,Gaming Laptop
+1254,2023-09-12,158,Sara,Lahore,Tablet,Electronics,2,86865,Cash,173730,40014.87511754345,0,Android Tablet
+1255,2023-09-13,169,Usman,Islamabad,Headphones,Electronics,2,41656,Cash,83312,20638.00628638415,13,Noise Cancelling
+1256,2023-09-14,179,Usman,Islamabad,Headphones,Accessories,1,77695,Cash,77695,12674.033294738696,4,Wired
+1257,2023-09-15,192,Ali,Karachi,Tablet,Electronics,3,47900,Cash,143700,32902.4890396013,10,Android Tablet
+1258,2023-09-16,102,Ali,Karachi,Headphones,Electronics,1,94899,Cash,94899,16989.40560028481,15,Noise Cancelling
+1259,2023-09-17,119,Ahmed,Faisalabad,Headphones,Electronics,1,57701,Online,57701,14000.650074458066,1,Wireless
+1260,2023-09-18,158,Ali,Karachi,Laptop,Electronics,3,29033,Cash,87099,12180.190245599426,7,Gaming Laptop
+1261,2023-09-19,135,Sara,Lahore,Tablet,Accessories,3,20805,Card,62415,17354.053877907365,10,iPad
+1262,2023-09-20,118,Usman,Lahore,Mobile,Electronics,4,45851,Cash,183404,28882.81392603464,17,Budget Phone
+1263,2023-09-21,189,Ahmed,Islamabad,Laptop,Accessories,4,36832,Cash,147328,25569.8348008277,2,Ultrabook
+1264,2023-09-22,166,Ali,Lahore,Tablet,Electronics,2,73437,Online,146874,16393.83947396986,0,iPad
+1265,2023-09-23,118,Sara,Faisalabad,Laptop,Electronics,3,23944,Online,71832,8785.229047092385,10,Business Laptop
+1266,2023-09-24,119,Sara,Lahore,Mobile,Accessories,4,29873,Card,119492,24277.4740957803,15,Budget Phone
+1267,2023-09-25,195,Ali,Lahore,Mobile,Electronics,2,50372,Card,100744,15466.071324856552,17,Budget Phone
+1268,2023-09-26,170,Usman,Faisalabad,Tablet,Accessories,2,99464,Online,198928,53132.88206928865,15,iPad
+1269,2023-09-27,151,Ali,Karachi,Mobile,Accessories,2,25379,Online,50758,5224.961404269629,9,Android Phone
+1270,2023-09-28,132,Ahmed,Karachi,Laptop,Electronics,4,46751,Cash,187004,32878.82069556935,17,Gaming Laptop
+1271,2023-09-29,139,Ali,Faisalabad,Mobile,Accessories,3,99822,Online,299466,50151.30430175062,5,iPhone
+1272,2023-09-30,138,Sara,Islamabad,Laptop,Accessories,1,15110,Card,15110,1569.4081006329905,18,Gaming Laptop
+1273,2023-10-01,181,Ali,Lahore,Laptop,Accessories,2,64341,Cash,128682,16068.994864036733,3,Business Laptop
+1274,2023-10-02,100,Usman,Faisalabad,Mobile,Accessories,4,22087,Card,88348,16143.700608742316,12,Android Phone
+1275,2023-10-03,110,Ayesha,Lahore,Tablet,Accessories,4,33762,Cash,135048,26816.87528009175,13,Android Tablet
+1276,2023-10-04,191,Ali,Islamabad,Headphones,Accessories,1,92617,Online,92617,16750.520704300845,2,Noise Cancelling
+1277,2023-10-05,156,Usman,Lahore,Mobile,Accessories,1,19596,Card,19596,4040.4509492326783,9,Budget Phone
+1278,2023-10-06,188,Usman,Faisalabad,Laptop,Accessories,4,28313,Cash,113252,24805.17048928365,5,Gaming Laptop
+1279,2023-10-07,149,Sara,Lahore,Laptop,Electronics,3,76549,Cash,229647,23420.49515010881,0,Gaming Laptop
+1280,2023-10-08,122,Usman,Karachi,Mobile,Electronics,1,33705,Online,33705,6498.96546987607,13,Budget Phone
+1281,2023-10-09,130,Usman,Islamabad,Tablet,Accessories,4,77364,Online,309456,90577.7242176219,7,Kids Tablet
+1282,2023-10-10,193,Usman,Islamabad,Tablet,Electronics,1,83445,Online,83445,17006.62972308204,18,Kids Tablet
+1283,2023-10-11,141,Usman,Islamabad,Laptop,Accessories,3,88645,Card,265935,62629.94057933935,13,Business Laptop
+1284,2023-10-12,198,Ahmed,Faisalabad,Laptop,Accessories,2,12023,Cash,24046,3904.415665493875,9,Gaming Laptop
+1285,2023-10-13,106,Ahmed,Islamabad,Tablet,Electronics,1,69796,Online,69796,17783.90044591004,16,Kids Tablet
+1286,2023-10-14,115,Sara,Karachi,Headphones,Accessories,3,90073,Card,270219,68793.51398221639,8,Wireless
+1287,2023-10-15,189,Ali,Faisalabad,Mobile,Accessories,4,74429,Card,297716,60811.23482467992,5,iPhone
+1288,2023-10-16,159,Usman,Karachi,Laptop,Accessories,1,71627,Card,71627,21144.48842400405,10,Business Laptop
+1289,2023-10-17,101,Ali,Lahore,Laptop,Accessories,1,43848,Online,43848,5485.825163382565,6,Ultrabook
+1290,2023-10-18,100,Ali,Lahore,Tablet,Electronics,4,47804,Online,191216,19769.732937905224,16,iPad
+1291,2023-10-19,147,Sara,Lahore,Mobile,Accessories,2,25379,Cash,50758,12894.138102473336,0,Android Phone
+1292,2023-10-20,111,Usman,Lahore,Tablet,Accessories,4,69664,Cash,278656,72849.34668398973,4,Kids Tablet
+1293,2023-10-21,168,Usman,Karachi,Mobile,Accessories,1,37766,Online,37766,4684.549242993537,8,Android Phone
+1294,2023-10-22,136,Ayesha,Faisalabad,Mobile,Electronics,4,78099,Card,312396,47833.00293698734,17,Android Phone
+1295,2023-10-23,131,Ali,Faisalabad,Mobile,Accessories,3,46060,Card,138180,14303.077114000158,1,iPhone
+1296,2023-10-24,108,Ali,Islamabad,Laptop,Electronics,4,79122,Card,316488,50214.53112174387,10,Business Laptop
+1297,2023-10-25,198,Ahmed,Karachi,Headphones,Electronics,1,26087,Cash,26087,6642.490412983277,5,Wired
+1298,2023-10-26,118,Ayesha,Lahore,Tablet,Accessories,4,58868,Card,235472,47940.24027630728,7,iPad
+1299,2023-10-27,147,Ahmed,Karachi,Headphones,Accessories,2,33225,Cash,66450,11271.190433206548,3,Wired
+1300,2023-10-28,179,Ahmed,Islamabad,Tablet,Electronics,4,16643,Cash,66572,11606.685668100845,17,Kids Tablet
+1301,2023-10-29,102,Ahmed,Islamabad,Mobile,Accessories,2,46727,Card,93454,9370.700347522674,10,Android Phone
+1302,2023-10-30,119,Sara,Karachi,Laptop,Electronics,3,21005,Card,63015,10079.886048904667,4,Gaming Laptop
+1303,2023-10-31,123,Sara,Karachi,Headphones,Electronics,2,75697,Online,151394,34713.394946306566,14,Wireless
+1304,2023-11-01,153,Ahmed,Karachi,Laptop,Accessories,4,26029,Online,104116,30697.445742476768,17,Gaming Laptop
+1305,2023-11-02,132,Ayesha,Faisalabad,Tablet,Accessories,1,24226,Card,24226,6526.77911890239,1,iPad
+1306,2023-11-03,123,Ali,Lahore,Laptop,Electronics,2,73646,Cash,147292,15424.269906513857,10,Gaming Laptop
+1307,2023-11-04,174,Ayesha,Karachi,Laptop,Electronics,3,70603,Cash,211809,59245.54462311461,12,Ultrabook
+1308,2023-11-05,171,Usman,Karachi,Headphones,Electronics,2,38731,Cash,77462,19879.82309818763,3,Noise Cancelling
+1309,2023-11-06,135,Sara,Karachi,Mobile,Electronics,2,78926,Cash,157852,40421.98637158528,6,Android Phone
+1310,2023-11-07,137,Ali,Islamabad,Laptop,Accessories,2,15997,Cash,31994,6130.023262712053,10,Gaming Laptop
+1311,2023-11-08,183,Ali,Islamabad,Mobile,Accessories,3,65506,Online,196518,35294.8408321666,3,Budget Phone
+1312,2023-11-09,198,Usman,Faisalabad,Tablet,Accessories,4,88229,Card,352916,56672.361471378994,14,Kids Tablet
+1313,2023-11-10,188,Usman,Lahore,Laptop,Accessories,2,59815,Online,119630,13534.815195342157,0,Business Laptop
+1314,2023-11-11,198,Ahmed,Faisalabad,Headphones,Accessories,2,52092,Cash,104184,15174.09462204551,2,Noise Cancelling
+1315,2023-11-12,124,Sara,Lahore,Tablet,Electronics,1,72539,Cash,72539,10831.576215534184,13,iPad
+1316,2023-11-13,192,Sara,Islamabad,Tablet,Accessories,3,76077,Cash,228231,44919.37873940581,5,iPad
+1317,2023-11-14,117,Ayesha,Islamabad,Headphones,Accessories,2,31817,Cash,63634,15875.975473874803,17,Wired
+1318,2023-11-15,181,Ahmed,Islamabad,Laptop,Accessories,3,47861,Card,143583,27964.507318172477,0,Business Laptop
+1319,2023-11-16,165,Ahmed,Faisalabad,Laptop,Accessories,2,23428,Cash,46856,5227.671904659232,5,Business Laptop
+1320,2023-11-17,153,Ahmed,Karachi,Tablet,Accessories,4,53934,Card,215736,62899.54810119824,5,Android Tablet
+1321,2023-11-18,134,Ahmed,Karachi,Laptop,Electronics,4,20258,Cash,81032,23381.36740496682,15,Ultrabook
+1322,2023-11-19,179,Sara,Islamabad,Mobile,Electronics,2,67775,Card,135550,34841.48851475335,4,iPhone
+1323,2023-11-20,160,Sara,Karachi,Headphones,Electronics,4,91580,Online,366320,109260.64738020106,16,Noise Cancelling
+1324,2023-11-21,140,Ahmed,Karachi,Mobile,Accessories,2,15469,Cash,30938,6462.838882434906,9,Budget Phone
+1325,2023-11-22,199,Ayesha,Faisalabad,Laptop,Electronics,4,38854,Card,155416,45467.521184590456,17,Business Laptop
+1326,2023-11-23,132,Ali,Lahore,Tablet,Electronics,1,16256,Online,16256,1871.4071080531803,6,Android Tablet
+1327,2023-11-24,167,Ali,Islamabad,Headphones,Accessories,1,86256,Cash,86256,14934.031724406568,2,Wired
+1328,2023-11-25,132,Ayesha,Islamabad,Laptop,Accessories,1,43937,Cash,43937,6374.215354482654,12,Gaming Laptop
+1329,2023-11-26,113,Ahmed,Faisalabad,Laptop,Accessories,3,11651,Cash,34953,4864.290757949028,14,Ultrabook
+1330,2023-11-27,120,Sara,Faisalabad,Tablet,Electronics,3,60288,Card,180864,23179.636909704997,19,Android Tablet
+1331,2023-11-28,147,Ali,Karachi,Tablet,Electronics,1,94730,Card,94730,21265.248853109373,18,Android Tablet
+1332,2023-11-29,119,Usman,Islamabad,Mobile,Accessories,3,35051,Online,105153,26946.96741947927,2,Android Phone
+1333,2023-11-30,107,Usman,Lahore,Headphones,Accessories,4,37386,Card,149544,32250.611168583684,3,Noise Cancelling
+1334,2023-12-01,106,Ayesha,Faisalabad,Headphones,Electronics,2,85054,Card,170108,22010.706520526237,4,Noise Cancelling
+1335,2023-12-02,166,Ahmed,Lahore,Tablet,Electronics,2,26184,Cash,52368,13732.185916775205,0,Android Tablet
+1336,2023-12-03,116,Ali,Lahore,Mobile,Accessories,2,43787,Cash,87574,19896.01950503127,3,Android Phone
+1337,2023-12-04,132,Ahmed,Islamabad,Headphones,Accessories,1,31621,Cash,31621,5616.937558688345,11,Wired
+1338,2023-12-05,147,Ali,Islamabad,Tablet,Electronics,3,85564,Cash,256692,60277.97076434861,9,Android Tablet
+1339,2023-12-06,175,Ayesha,Faisalabad,Laptop,Accessories,4,87984,Cash,351936,53487.58375496112,19,Business Laptop
+1340,2023-12-07,158,Ayesha,Islamabad,Headphones,Electronics,4,69792,Cash,279168,47190.12369218235,12,Wireless
+1341,2023-12-08,185,Usman,Islamabad,Mobile,Electronics,1,55253,Cash,55253,15664.069058114372,13,iPhone
+1342,2023-12-09,121,Ahmed,Islamabad,Mobile,Electronics,4,44051,Online,176204,27858.01118346539,4,Budget Phone
+1343,2023-12-10,129,Usman,Lahore,Mobile,Electronics,4,59811,Online,239244,46412.77464543548,3,Android Phone
+1344,2023-12-11,137,Ahmed,Faisalabad,Laptop,Accessories,4,40447,Online,161788,44981.63086740528,13,Gaming Laptop
+1345,2023-12-12,150,Usman,Karachi,Headphones,Accessories,4,93930,Online,375720,90753.01314450309,9,Wireless
+1346,2023-12-13,153,Sara,Lahore,Headphones,Electronics,3,40254,Cash,120762,13578.557199620367,16,Wireless
+1347,2023-12-14,107,Sara,Islamabad,Laptop,Electronics,4,94045,Online,376180,48700.49183937262,9,Business Laptop
+1348,2023-12-15,126,Sara,Lahore,Headphones,Electronics,2,67418,Cash,134836,13695.065746664435,6,Wireless
+1349,2023-12-16,126,Sara,Islamabad,Laptop,Electronics,1,24472,Online,24472,5535.183610097617,15,Ultrabook
+1350,2023-12-17,197,Ali,Islamabad,Laptop,Electronics,3,13471,Card,40413,7659.665228222247,0,Ultrabook
+1351,2023-12-18,120,Sara,Lahore,Laptop,Accessories,4,18329,Online,73316,9300.498993750249,16,Gaming Laptop
+1352,2023-12-19,129,Ayesha,Faisalabad,Mobile,Accessories,3,44865,Online,134595,39246.1286047272,8,Budget Phone
+1353,2023-12-20,196,Ayesha,Islamabad,Headphones,Accessories,4,56850,Cash,227400,46828.92424504679,5,Wireless
+1354,2023-12-21,127,Ali,Faisalabad,Laptop,Accessories,2,64220,Online,128440,19057.754939171897,18,Gaming Laptop
+1355,2023-12-22,163,Sara,Karachi,Headphones,Electronics,1,16397,Card,16397,3281.379351244748,12,Noise Cancelling
+1356,2023-12-23,196,Sara,Islamabad,Mobile,Electronics,4,45525,Cash,182100,42961.77251821262,2,Android Phone
+1357,2023-12-24,168,Sara,Faisalabad,Laptop,Electronics,4,63072,Cash,252288,29075.64796482293,6,Ultrabook
+1358,2023-12-25,160,Usman,Faisalabad,Tablet,Electronics,4,93820,Online,375280,58146.16954223458,8,iPad
+1359,2023-12-26,147,Ahmed,Karachi,Mobile,Electronics,4,94530,Cash,378120,98837.95828261111,4,Android Phone
+1360,2023-12-27,118,Usman,Faisalabad,Tablet,Accessories,1,33284,Cash,33284,6388.297109296434,9,iPad
+1361,2023-12-28,103,Ahmed,Faisalabad,Headphones,Electronics,1,71330,Cash,71330,14930.469508232718,16,Noise Cancelling
+1362,2023-12-29,134,Sara,Karachi,Headphones,Accessories,2,93369,Cash,186738,34838.438924118374,11,Wired
+1363,2023-12-30,163,Sara,Islamabad,Mobile,Accessories,1,35122,Cash,35122,3820.5707571015255,15,iPhone
+1364,2023-12-31,148,Usman,Faisalabad,Headphones,Accessories,4,80553,Cash,322212,42902.51361108241,2,Noise Cancelling
+1365,2024-01-01,116,Usman,Faisalabad,Tablet,Accessories,2,91906,Card,183812,34760.37994008489,8,iPad
+1366,2024-01-02,143,Ahmed,Faisalabad,Laptop,Electronics,2,72812,Online,145624,20654.884842912816,14,Business Laptop
+1367,2024-01-03,191,Ayesha,Lahore,Laptop,Accessories,2,17999,Card,35998,3959.6290147382233,4,Ultrabook
+1368,2024-01-04,129,Ahmed,Karachi,Laptop,Accessories,4,32436,Cash,129744,34866.09640254796,12,Business Laptop
+1369,2024-01-05,192,Usman,Lahore,Mobile,Accessories,3,52963,Cash,158889,47069.03995327144,13,Budget Phone
+1370,2024-01-06,145,Usman,Karachi,Headphones,Electronics,4,12096,Online,48384,12513.484963091649,19,Wired
+1371,2024-01-07,105,Ali,Islamabad,Tablet,Electronics,1,35279,Card,35279,9552.03565056379,14,Kids Tablet
+1372,2024-01-08,198,Usman,Islamabad,Headphones,Electronics,1,36201,Online,36201,5372.062818921472,15,Noise Cancelling
+1373,2024-01-09,136,Ali,Faisalabad,Headphones,Accessories,4,29715,Card,118860,34722.02446189978,12,Wired
+1374,2024-01-10,123,Ayesha,Karachi,Headphones,Accessories,4,39309,Cash,157236,21916.36201308785,16,Wired
+1375,2024-01-11,192,Ahmed,Islamabad,Laptop,Electronics,2,25078,Online,50156,14559.582713701611,7,Business Laptop
+1376,2024-01-12,145,Ahmed,Karachi,Tablet,Accessories,4,66614,Online,266456,79660.7139585983,1,Android Tablet
+1377,2024-01-13,152,Ali,Islamabad,Tablet,Electronics,2,15105,Cash,30210,7321.229192317626,4,Android Tablet
+1378,2024-01-14,194,Ahmed,Lahore,Headphones,Electronics,1,12839,Online,12839,3803.28087449504,5,Wireless
+1379,2024-01-15,198,Usman,Islamabad,Laptop,Accessories,2,78920,Card,157840,33763.23176137432,11,Ultrabook
+1380,2024-01-16,159,Sara,Lahore,Laptop,Accessories,4,53619,Card,214476,32580.69669769503,17,Business Laptop
+1381,2024-01-17,196,Ali,Islamabad,Tablet,Accessories,1,52821,Card,52821,9898.61193534875,0,Kids Tablet
+1382,2024-01-18,162,Ahmed,Faisalabad,Laptop,Accessories,3,23493,Card,70479,15414.61623291229,16,Gaming Laptop
+1383,2024-01-19,184,Ali,Lahore,Laptop,Electronics,2,27069,Cash,54138,6205.097921003708,10,Business Laptop
+1384,2024-01-20,131,Ali,Islamabad,Laptop,Electronics,1,17531,Online,17531,3935.159954400988,9,Ultrabook
+1385,2024-01-21,186,Sara,Faisalabad,Mobile,Electronics,2,47051,Card,94102,27876.35935900109,18,iPhone
+1386,2024-01-22,132,Usman,Lahore,Headphones,Electronics,1,17736,Cash,17736,2447.9498553128387,13,Noise Cancelling
+1387,2024-01-23,166,Ali,Faisalabad,Tablet,Electronics,1,17710,Online,17710,4578.371901893453,9,iPad
+1388,2024-01-24,117,Ahmed,Karachi,Tablet,Accessories,2,77155,Online,154310,43450.57257362662,14,Android Tablet
+1389,2024-01-25,124,Ayesha,Karachi,Mobile,Electronics,3,23975,Cash,71925,20767.647412718878,18,Android Phone
+1390,2024-01-26,194,Ali,Lahore,Headphones,Electronics,1,72424,Cash,72424,21149.77220269202,3,Wired
+1391,2024-01-27,153,Ali,Islamabad,Tablet,Electronics,1,55603,Card,55603,11359.244058366,1,Kids Tablet
+1392,2024-01-28,157,Sara,Lahore,Laptop,Accessories,1,33252,Online,33252,9824.688511306696,8,Gaming Laptop
+1393,2024-01-29,166,Usman,Faisalabad,Tablet,Accessories,3,90797,Online,272391,68495.99692631139,9,Android Tablet
+1394,2024-01-30,145,Ayesha,Islamabad,Laptop,Accessories,3,11431,Cash,34293,4538.139712574827,10,Gaming Laptop
+1395,2024-01-31,123,Ahmed,Karachi,Mobile,Accessories,4,84603,Online,338412,66118.94376600774,13,iPhone
+1396,2024-02-01,131,Ayesha,Islamabad,Laptop,Electronics,2,47481,Card,94962,23139.03301513525,6,Business Laptop
+1397,2024-02-02,146,Ahmed,Karachi,Tablet,Electronics,3,19557,Online,58671,8769.440733884288,14,Kids Tablet
+1398,2024-02-03,185,Usman,Islamabad,Tablet,Accessories,2,84971,Cash,169942,38767.68510453301,18,Kids Tablet
+1399,2024-02-04,122,Ahmed,Islamabad,Tablet,Accessories,4,10162,Cash,40648,9483.995254457395,14,Kids Tablet
+1400,2024-02-05,165,Sara,Islamabad,Mobile,Electronics,2,44742,Card,89484,11860.204774993144,7,iPhone
+1401,2024-02-06,126,Sara,Faisalabad,Mobile,Electronics,3,29675,Card,89025,18963.843988221324,10,iPhone
+1402,2024-02-07,101,Sara,Faisalabad,Headphones,Accessories,2,83997,Online,167994,42725.13825658804,8,Noise Cancelling
+1403,2024-02-08,189,Sara,Lahore,Tablet,Accessories,3,27015,Online,81045,16191.099826463082,14,Kids Tablet
+1404,2024-02-09,116,Ayesha,Lahore,Laptop,Accessories,2,60057,Cash,120114,12302.150753689077,0,Business Laptop
+1405,2024-02-10,132,Usman,Karachi,Mobile,Accessories,3,42591,Card,127773,13008.27446193368,0,Budget Phone
+1406,2024-02-11,108,Ahmed,Faisalabad,Tablet,Electronics,3,19833,Card,59499,10198.477787374351,18,Android Tablet
+1407,2024-02-12,142,Ahmed,Karachi,Tablet,Electronics,2,17896,Card,35792,10209.267619462067,2,iPad
+1408,2024-02-13,147,Sara,Lahore,Mobile,Electronics,4,42972,Online,171888,25050.15885850102,9,Budget Phone
+1409,2024-02-14,138,Sara,Karachi,Headphones,Accessories,1,59733,Card,59733,13551.789245474498,7,Wired
+1410,2024-02-15,192,Ali,Lahore,Mobile,Accessories,4,51800,Cash,207200,29922.82408153121,14,Android Phone
+1411,2024-02-16,141,Usman,Faisalabad,Mobile,Electronics,2,15347,Cash,30694,5044.067732522037,9,iPhone
+1412,2024-02-17,125,Ayesha,Islamabad,Laptop,Electronics,4,69063,Online,276252,74479.86466731783,0,Business Laptop
+1413,2024-02-18,198,Ahmed,Faisalabad,Laptop,Electronics,3,12643,Online,37929,9321.897128771365,17,Business Laptop
+1414,2024-02-19,149,Ali,Karachi,Headphones,Electronics,1,50785,Card,50785,6047.47045967028,1,Wired
+1415,2024-02-20,124,Ali,Karachi,Tablet,Accessories,2,28681,Online,57362,10654.44106556476,18,Android Tablet
+1416,2024-02-21,123,Ahmed,Faisalabad,Mobile,Electronics,2,60026,Cash,120052,12705.57769302826,12,iPhone
+1417,2024-02-22,112,Ayesha,Faisalabad,Headphones,Electronics,2,25892,Card,51784,10158.883070338044,0,Wired
+1418,2024-02-23,159,Ali,Lahore,Laptop,Electronics,1,57299,Cash,57299,13321.2612872919,1,Ultrabook
+1419,2024-02-24,106,Ali,Karachi,Mobile,Electronics,3,27073,Card,81219,10046.832917203656,15,iPhone
+1420,2024-02-25,156,Usman,Karachi,Tablet,Electronics,2,40682,Online,81364,12837.366833881071,14,Kids Tablet
+1421,2024-02-26,135,Ayesha,Faisalabad,Laptop,Electronics,4,24289,Card,97156,17446.04303745751,12,Gaming Laptop
+1422,2024-02-27,144,Ali,Islamabad,Laptop,Electronics,2,17927,Card,35854,10179.173071603602,15,Gaming Laptop
+1423,2024-02-28,119,Ayesha,Karachi,Laptop,Accessories,2,58330,Cash,116660,34840.6260198486,16,Gaming Laptop
+1424,2024-02-29,164,Ahmed,Islamabad,Headphones,Accessories,2,76707,Cash,153414,16719.404404822682,6,Wireless
+1425,2024-03-01,107,Sara,Faisalabad,Tablet,Accessories,2,87454,Card,174908,44112.0747765464,16,Kids Tablet
+1426,2024-03-02,115,Ali,Faisalabad,Mobile,Accessories,3,75428,Online,226284,39451.44172835757,6,iPhone
+1427,2024-03-03,113,Usman,Lahore,Headphones,Electronics,4,60601,Online,242404,43267.08683495418,12,Wireless
+1428,2024-03-04,175,Ahmed,Karachi,Headphones,Accessories,3,87465,Cash,262395,65822.5715362784,4,Wired
+1429,2024-03-05,186,Ayesha,Islamabad,Headphones,Accessories,4,12539,Online,50156,14228.519226137025,16,Noise Cancelling
+1430,2024-03-06,114,Ahmed,Lahore,Laptop,Electronics,2,32669,Cash,65338,18960.1545015215,2,Ultrabook
+1431,2024-03-07,191,Ali,Karachi,Tablet,Electronics,1,80968,Online,80968,17442.49230927015,6,Kids Tablet
+1432,2024-03-08,197,Ayesha,Lahore,Headphones,Accessories,3,30644,Card,91932,15759.372483362764,16,Wireless
+1433,2024-03-09,165,Sara,Faisalabad,Mobile,Accessories,1,28745,Cash,28745,7402.119694602121,6,iPhone
+1434,2024-03-10,131,Ahmed,Karachi,Tablet,Electronics,3,38228,Cash,114684,17225.56852761073,0,iPad
+1435,2024-03-11,186,Ali,Lahore,Mobile,Accessories,2,44521,Card,89042,18949.45593507881,16,iPhone
+1436,2024-03-12,162,Usman,Lahore,Tablet,Electronics,3,36928,Cash,110784,19023.35125631431,16,Kids Tablet
+1437,2024-03-13,185,Ayesha,Islamabad,Mobile,Electronics,2,28322,Online,56644,13103.242107821789,10,Android Phone
+1438,2024-03-14,150,Ahmed,Lahore,Laptop,Electronics,3,67714,Online,203142,30081.22319260256,2,Ultrabook
+1439,2024-03-15,124,Ahmed,Karachi,Headphones,Electronics,2,97896,Cash,195792,27081.6732062626,14,Noise Cancelling
+1440,2024-03-16,157,Sara,Karachi,Mobile,Accessories,2,72292,Online,144584,41010.93602157627,10,iPhone
+1441,2024-03-17,162,Sara,Islamabad,Tablet,Electronics,4,39055,Cash,156220,18802.754270075333,15,Kids Tablet
+1442,2024-03-18,161,Usman,Karachi,Headphones,Electronics,2,52891,Card,105782,21282.447879203308,8,Wired
+1443,2024-03-19,121,Usman,Faisalabad,Headphones,Accessories,4,91912,Cash,367648,53004.01679015686,0,Wireless
+1444,2024-03-20,157,Ali,Karachi,Tablet,Electronics,2,16588,Card,33176,3575.908092658469,15,iPad
+1445,2024-03-21,157,Ali,Karachi,Mobile,Accessories,1,16304,Online,16304,1747.8501626846833,8,Android Phone
+1446,2024-03-22,185,Usman,Lahore,Laptop,Accessories,2,17345,Card,34690,4684.688654870231,18,Business Laptop
+1447,2024-03-23,148,Usman,Lahore,Laptop,Accessories,1,39300,Online,39300,10742.81498641716,11,Ultrabook
+1448,2024-03-24,151,Ayesha,Karachi,Mobile,Electronics,1,34259,Cash,34259,5361.387857981792,18,Budget Phone
+1449,2024-03-25,141,Sara,Islamabad,Headphones,Accessories,2,98553,Online,197106,57178.84105508284,8,Wireless
+1450,2024-03-26,169,Ali,Lahore,Headphones,Accessories,1,25352,Cash,25352,5484.257674372408,6,Wireless
+1451,2024-03-27,114,Sara,Islamabad,Headphones,Electronics,4,43365,Cash,173460,32493.019471458032,13,Wireless
+1452,2024-03-28,153,Sara,Karachi,Headphones,Accessories,3,29446,Card,88338,19082.57749540605,18,Wired
+1453,2024-03-29,159,Usman,Karachi,Mobile,Accessories,2,12336,Card,24672,5016.796512060496,18,iPhone
+1454,2024-03-30,196,Ayesha,Faisalabad,Headphones,Accessories,1,72032,Card,72032,18134.434222129526,1,Wireless
+1455,2024-03-31,107,Ahmed,Lahore,Tablet,Accessories,2,85415,Card,170830,26734.76059002847,8,Kids Tablet
+1456,2024-04-01,152,Ayesha,Karachi,Headphones,Accessories,4,17521,Online,70084,11957.03672898312,12,Wired
+1457,2024-04-02,159,Ayesha,Faisalabad,Laptop,Electronics,2,81707,Online,163414,45562.90527083373,14,Business Laptop
+1458,2024-04-03,104,Sara,Lahore,Headphones,Accessories,2,33481,Online,66962,19371.52420671549,2,Wired
+1459,2024-04-04,167,Ayesha,Karachi,Mobile,Accessories,1,28474,Cash,28474,7930.340593889975,10,Android Phone
+1460,2024-04-05,105,Ali,Karachi,Laptop,Electronics,4,56760,Online,227040,41750.2945096137,13,Gaming Laptop
+1461,2024-04-06,195,Sara,Lahore,Mobile,Electronics,3,65718,Online,197154,50485.83607596375,7,Android Phone
+1462,2024-04-07,193,Ali,Lahore,Mobile,Electronics,3,54629,Online,163887,32001.74686470344,17,Android Phone
+1463,2024-04-08,146,Ahmed,Lahore,Laptop,Accessories,1,55232,Card,55232,11019.2242227467,18,Gaming Laptop
+1464,2024-04-09,198,Sara,Karachi,Mobile,Electronics,2,96544,Online,193088,27213.05457953057,15,Budget Phone
+1465,2024-04-10,154,Ahmed,Karachi,Mobile,Accessories,1,77169,Cash,77169,16840.28687443129,1,Budget Phone
+1466,2024-04-11,139,Sara,Faisalabad,Headphones,Accessories,1,60669,Card,60669,8325.435756159573,7,Wireless
+1467,2024-04-12,151,Usman,Islamabad,Tablet,Electronics,1,88021,Cash,88021,14639.031275318692,5,iPad
+1468,2024-04-13,115,Ayesha,Lahore,Mobile,Electronics,2,79184,Online,158368,42918.684594029175,11,Android Phone
+1469,2024-04-14,112,Usman,Karachi,Mobile,Accessories,4,57945,Card,231780,32777.2062117784,14,Budget Phone
+1470,2024-04-15,129,Ahmed,Karachi,Mobile,Electronics,1,23140,Cash,23140,2643.3205437826477,7,Budget Phone
+1471,2024-04-16,118,Ayesha,Lahore,Headphones,Accessories,2,93457,Online,186914,21271.09703312639,3,Wired
+1472,2024-04-17,116,Sara,Islamabad,Tablet,Electronics,4,24357,Cash,97428,28074.55085271536,14,Kids Tablet
+1473,2024-04-18,162,Ayesha,Lahore,Laptop,Electronics,1,78673,Cash,78673,15843.490323154285,19,Gaming Laptop
+1474,2024-04-19,118,Ali,Islamabad,Headphones,Electronics,3,75633,Cash,226899,41268.93793664193,16,Wired
+1475,2024-04-20,191,Ayesha,Karachi,Headphones,Accessories,4,86943,Online,347772,91177.37317485714,12,Wireless
+1476,2024-04-21,157,Ali,Islamabad,Tablet,Electronics,1,88258,Online,88258,23579.464949105262,17,Android Tablet
+1477,2024-04-22,154,Ayesha,Faisalabad,Tablet,Accessories,4,22924,Cash,91696,15261.717794513695,1,iPad
+1478,2024-04-23,189,Ali,Karachi,Headphones,Accessories,4,79286,Card,317144,75709.76104389386,12,Wireless
+1479,2024-04-24,189,Ahmed,Faisalabad,Laptop,Accessories,4,84071,Card,336284,85491.65300118717,12,Ultrabook
+1480,2024-04-25,161,Usman,Lahore,Headphones,Accessories,4,67326,Online,269304,62190.409715149806,14,Wireless
+1481,2024-04-26,122,Sara,Lahore,Tablet,Electronics,4,40651,Online,162604,21190.393108559078,19,iPad
+1482,2024-04-27,108,Ayesha,Lahore,Laptop,Accessories,4,80202,Online,320808,88278.86005138801,9,Business Laptop
+1483,2024-04-28,111,Usman,Islamabad,Tablet,Accessories,1,58777,Online,58777,12214.972105232877,2,iPad
+1484,2024-04-29,100,Sara,Karachi,Laptop,Electronics,3,26994,Online,80982,12673.236406459127,18,Gaming Laptop
+1485,2024-04-30,157,Sara,Lahore,Mobile,Accessories,2,77263,Card,154526,28594.362116589014,2,iPhone
+1486,2024-05-01,100,Ali,Lahore,Tablet,Electronics,4,69634,Online,278536,29946.58024707001,13,iPad
+1487,2024-05-02,133,Ahmed,Karachi,Tablet,Accessories,2,20800,Cash,41600,5223.851786170514,7,Android Tablet
+1488,2024-05-03,195,Ahmed,Lahore,Headphones,Electronics,1,47823,Cash,47823,12104.448449984002,3,Noise Cancelling
+1489,2024-05-04,147,Usman,Faisalabad,Tablet,Accessories,4,73878,Card,295512,29551.887641965557,19,Android Tablet
+1490,2024-05-05,188,Ahmed,Karachi,Tablet,Electronics,3,28708,Cash,86124,15787.663082441788,10,iPad
+1491,2024-05-06,100,Ayesha,Karachi,Mobile,Accessories,2,22819,Card,45638,9333.063928876816,10,iPhone
+1492,2024-05-07,115,Ahmed,Karachi,Tablet,Accessories,4,84905,Card,339620,37672.98834414604,10,Android Tablet
+1493,2024-05-08,160,Usman,Faisalabad,Mobile,Electronics,1,73870,Cash,73870,21763.256779753243,1,Budget Phone
+1494,2024-05-09,163,Ahmed,Karachi,Mobile,Electronics,3,19283,Online,57849,8401.124857492454,16,iPhone
+1495,2024-05-10,162,Ayesha,Faisalabad,Mobile,Electronics,2,40573,Cash,81146,13051.50186072113,8,iPhone
+1496,2024-05-11,168,Ali,Karachi,Mobile,Electronics,2,88707,Cash,177414,28526.131373842683,1,iPhone
+1497,2024-05-12,121,Usman,Islamabad,Laptop,Accessories,4,40933,Card,163732,23918.51618435959,14,Gaming Laptop
+1498,2024-05-13,192,Ali,Lahore,Headphones,Accessories,3,15774,Cash,47322,4746.148841753686,15,Wired
+1499,2024-05-14,166,Ali,Islamabad,Laptop,Electronics,3,82055,Card,246165,60524.33224733432,3,Ultrabook
